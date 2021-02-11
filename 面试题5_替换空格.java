@@ -55,6 +55,10 @@ public class 面试题5_替换空格 {
         }
         return str.toString();
     }
+        /*
+    题目延伸：
+    合并排序数组时也可以考虑从后往前，从而减少移动次数
+     */
 
     public static void main(String[] args) {
         System.out.println(replaceSpace(new StringBuffer("We are happy")));
