@@ -55,11 +55,8 @@ public class 面试题5_替换空格 {
         }
         return str.toString();
     }
-<<<<<<< Updated upstream
-        /*
-=======
+
     /*
->>>>>>> Stashed changes
     题目延伸：
     合并排序数组时也可以考虑从后往前，从而减少移动次数
      */
